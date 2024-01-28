@@ -1,6 +1,6 @@
 answer1 = 20
 
-answer2 = 20
+answer2 = 300
 
 sum_answers = answer1 + answer2
 

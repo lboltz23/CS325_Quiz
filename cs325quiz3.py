@@ -1,4 +1,4 @@
-answer1 = 20
+answer1 = 40
 
 answer2 = 30
 
